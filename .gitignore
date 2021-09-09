@@ -1,3 +1,4 @@
 *.jar
 *.xml
-nodes_modules/
+node_modules/
+
